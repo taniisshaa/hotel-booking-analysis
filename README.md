@@ -17,6 +17,4 @@ This project analyzes hotel booking data to gain insights into customer preferen
 
  Visualization: Create interactive dashboards and visualizations for actionable insights.
  
-Adding images in README.md file
-
 ![](https://github.com/taniisshaa/hotel-booking-analysis/blob/main/images.jpg)
