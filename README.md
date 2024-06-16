@@ -16,3 +16,6 @@ This project analyzes hotel booking data to gain insights into customer preferen
  Revenue Analysis: Assess the impact of booking channels and room types on revenue.
 
  Visualization: Create interactive dashboards and visualizations for actionable insights.
+ 
+ https://www.google.com/imgres?q=hotel%20booking%20analysis%20photo&imgurl=x-raw-image%3A%2F%2F%2F9755838b920c992d22dfad7b3f34fb4a436866889d7a71eae7380b9f97799584&imgrefurl=https%3A%2F%2Frpubs.com%2Fanandny%2Fdwgroup9&docid=pdYS7OI_ZzkzPM&tbnid=LZkMkouDVZf-HM&vet=12ahUKEwjLz4iGvt-GAxWw6jgGHWPLACIQM3oECBgQAA..i&w=1349&h=646&hcb=2&ved=2ahUKEwjLz4iGvt-GAxWw6jgGHWPLACIQM3oECBgQAA
+ 
